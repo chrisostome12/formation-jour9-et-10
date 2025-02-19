@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    background: black;
+
+
+}
+
+.line {
+    width: 20px;
+    height: 20px;
+    margin: 100px;
+    padding: 20px;
+    text-align: end;
+    border: none;
+    box-shadow: 2px 2px 80px rgba(255, 255, 255, 0.778);
+    border-radius: 100%;
+    float: right;
+}
+
+.montagne {
+    background: url();
+}

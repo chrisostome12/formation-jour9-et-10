@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body section nav ul{
+    display: flex;
+    float: right;
+}
+
+body section nav ul li{
+    list-style-type: none;
+    margin: 5px;
+    text-align: center;
+}
+
+body section nav ul li a{
+    text-decoration: none;
+    text-align: end;
+}
+   
+header{
+    background: url(../image/lieu\ a\ a\ visiter.jpg);
+    height: 50vh;
+    width: 100vw;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    padding: 0%;
+    overflow: hidden;
+    margin: 0%;
+
+
+}
+header h1{
+    position: absolute;
+    color: white;
+    font-weight: 400;
+    font-size: 3rem;
+        font-family: "Sigmar", serif;
+       z-index: 1;
+       margin-left: 45%;
+      
+   
+}
+.section-2{
+    background: rgba(0, 0, 0, 0.603);
+    width: 100vw;
+    height: 50vh;
+    position: absolute;
+    top: 15px;
+    margin-top: 1%;
+
+}
+header p{
+    z-index: 1;
+    color: white;
+    font-size: 2rem;
+    position: absolute;
+    top: 100px;
+    left: 50vw;
+}
+footer {
+        display: flex;
+        justify-content: space-between;
+        color: white;
+        padding: 10px 20px;
+        margin-top: 0px;
+        font-size: 14px;
+        background-color: red;
+    }
+    
+    
